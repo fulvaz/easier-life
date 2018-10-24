@@ -1,0 +1,3 @@
+[submodule "gitlab-manager"]
+	path = gitlab-manager
+	url = git@github.com:fulvaz/gitlab-manager.git
